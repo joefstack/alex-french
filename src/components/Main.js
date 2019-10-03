@@ -1,8 +1,8 @@
 import PropTypes from 'prop-types'
 import React from 'react'
-import pic01 from '../images/pic01.jpg'
-import pic02 from '../images/pic02.jpg'
-import pic03 from '../images/pic03.jpg'
+import pic01 from '../images/intro-pic.jpg'
+import pic02 from '../images/about-pic.jpg'
+import pic03 from '../images/contact-pic.jpg'
 
 class Main extends React.Component {
   render() {
@@ -33,24 +33,19 @@ class Main extends React.Component {
             <img src={pic01} alt="" />
           </span>
           <p>
-            Aenean ornare velit lacus, ac varius enim ullamcorper eu. Proin
-            aliquam facilisis ante interdum congue. Integer mollis, nisl amet
-            convallis, porttitor magna ullamcorper, amet egestas mauris. Ut
-            magna finibus nisi nec lacinia. Nam maximus erat id euismod egestas.
-            By the way, check out my <a href="#work">awesome work</a>.
+            Motivated and results-oriented bilingual professional with
+            outstanding project management skills. Expert researcher with flair
+            for analysis, reporting and presentations. Keenly interested in
+            developing a career in business intelligence and providing a
+            vertical bridge to communicate information of high value to support
+            decision making. Possesses knowledge and experience spanning various
+            business fields such as Sales, Account Management, Customer
+            Retention, Information Management and Marketing. Recognized as a
+            collaborative team player with excellent interpersonal skills and
+            the ability to build solid working relationships.
           </p>
           <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis
-            dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora
-            torquent per conubia nostra, per inceptos himenaeos. Etiam tristique
-            libero eu nibh porttitor fermentum. Nullam venenatis erat id
-            vehicula viverra. Nunc ultrices eros ut ultricies condimentum.
-            Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae
-            dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in
-            lectus. Pellentesque habitant morbi tristique senectus et netus et
-            malesuada fames ac turpis egestas. In non lorem sit amet elit
-            placerat maximus. Pellentesque aliquam maximus risus, vel sed
-            vehicula.
+            By the way, check out my <a href="#work">awesome work</a>.
           </p>
           {close}
         </article>
@@ -67,10 +62,17 @@ class Main extends React.Component {
             <img src={pic02} alt="" />
           </span>
           <p>
-            Adipiscing magna sed dolor elit. Praesent eleifend dignissim arcu,
-            at eleifend sapien imperdiet ac. Aliquam erat volutpat. Praesent
-            urna nisi, fringila lorem et vehicula lacinia quam. Integer
-            sollicitudin mauris nec lorem luctus ultrices.
+            • Evaluated French and English certificates of insurance to
+            establish adequate coverages and amounts were included to meet or
+            exceed the requirements of clients like Cineplex and Loblaws •
+            Reviewed documents such as licenses, agreements, and workers’
+            compensation as required • Communicated by email in French and
+            English to contractors and insurance brokers specific modifications
+            that needed to be made to their insurance or any document that was
+            missing • Resolved issues over the phone in French and English with
+            contractors and brokers further explaining client insurance
+            requirements or providing tech support with navigating the recently
+            upgraded website
           </p>
           <p>
             Nullam et orci eu lorem consequat tincidunt vivamus et sagittis
@@ -96,13 +98,16 @@ class Main extends React.Component {
             <img src={pic03} alt="" />
           </span>
           <p>
-            Lorem ipsum dolor sit amet, consectetur et adipiscing elit. Praesent
-            eleifend dignissim arcu, at eleifend sapien imperdiet ac. Aliquam
-            erat volutpat. Praesent urna nisi, fringila lorem et vehicula
-            lacinia quam. Integer sollicitudin mauris nec lorem luctus ultrices.
-            Aliquam libero et malesuada fames ac ante ipsum primis in faucibus.
-            Cras viverra ligula sit amet ex mollis mattis lorem ipsum dolor sit
-            amet.
+            Motivated and results-oriented bilingual professional with
+            outstanding project management skills. Expert researcher with flair
+            for analysis, reporting and presentations. Keenly interested in
+            developing a career in business intelligence and providing a
+            vertical bridge to communicate information of high value to support
+            decision making. Possesses knowledge and experience spanning various
+            business fields such as Sales, Account Management, Customer
+            Retention, Information Management and Marketing. Recognized as a
+            collaborative team player with excellent interpersonal skills and
+            the ability to build solid working relationships.
           </p>
           {close}
         </article>
@@ -114,7 +119,7 @@ class Main extends React.Component {
           }`}
           style={{ display: 'none' }}
         >
-          <h2 className="major">Contact</h2>
+          <h2 className="major">Say Hello</h2>
           <form method="post" action="#">
             <div className="field half first">
               <label htmlFor="name">Name</label>
@@ -140,30 +145,36 @@ class Main extends React.Component {
           <ul className="icons">
             <li>
               <a
-                href="https://twitter.com/HuntaroSan"
-                className="icon fa-twitter"
+                href="https://www.linkedin.com/in/alex-cowan-53112910b/"
+                className="icon fa-linkedin"
               >
-                <span className="label">Twitter</span>
+                <span className="label">LinkedIn</span>
               </a>
             </li>
             <li>
-              <a href="https://codebushi.com" className="icon fa-facebook">
+              <a
+                href="https://www.facebook.com/alex.cowan2"
+                className="icon fa-facebook"
+              >
                 <span className="label">Facebook</span>
               </a>
             </li>
             <li>
-              <a href="https://codebushi.com" className="icon fa-instagram">
+              <a
+                href="https://www.instagram.com/cowan72/"
+                className="icon fa-instagram"
+              >
                 <span className="label">Instagram</span>
               </a>
             </li>
-            <li>
+            {/* <li>
               <a
                 href="https://github.com/codebushi/gatsby-starter-dimension"
                 className="icon fa-github"
               >
                 <span className="label">GitHub</span>
               </a>
-            </li>
+            </li> */}
           </ul>
           {close}
         </article>
