@@ -10,7 +10,7 @@ const Header = props => (
       <div className="inner">
         <h1>AlexFrench</h1>
         <p>
-          A Personal and Business website by{' '}
+          A Personal and Business site by{' '}
           <a href="https://www.linkedin.com/in/alex-cowan-53112910b/">
             AlexFrench
           </a>
