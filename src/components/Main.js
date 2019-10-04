@@ -30,19 +30,16 @@ class Main extends React.Component {
         >
           <h2 className="major">Intro</h2>
           <span className="image main">
-            <img src={pic01} alt="" />
+            <img src={pic01} alt="Hello" />
           </span>
           <p>
-            Motivated and results-oriented bilingual professional with
-            outstanding project management skills. Expert researcher with flair
-            for analysis, reporting and presentations. Keenly interested in
-            developing a career in business intelligence and providing a
-            vertical bridge to communicate information of high value to support
-            decision making. Possesses knowledge and experience spanning various
-            business fields such as Sales, Account Management, Customer
-            Retention, Information Management and Marketing. Recognized as a
-            collaborative team player with excellent interpersonal skills and
-            the ability to build solid working relationships.
+            Hi, I'm Alex and i am a very unique indiviual. I feel that the
+            feature the defines me is charm. I am a motivated and energetic
+            individual but my biggest strength is my ability to create bonds
+            with strangers. My friendly and relxed demeanor can instantly disarm
+            the majority of people. I am always up for a game of pool or a
+            cruise through town on my skateboard. I am very competitive so
+            invitations are welcome.
           </p>
           <p>
             By the way, check out my <a href="#work">awesome work</a>.
@@ -62,26 +59,20 @@ class Main extends React.Component {
             <img src={pic02} alt="" />
           </span>
           <p>
-            • Evaluated French and English certificates of insurance to
-            establish adequate coverages and amounts were included to meet or
-            exceed the requirements of clients like Cineplex and Loblaws •
-            Reviewed documents such as licenses, agreements, and workers’
-            compensation as required • Communicated by email in French and
-            English to contractors and insurance brokers specific modifications
-            that needed to be made to their insurance or any document that was
-            missing • Resolved issues over the phone in French and English with
-            contractors and brokers further explaining client insurance
-            requirements or providing tech support with navigating the recently
-            upgraded website
+            Everyday i come into work ad improve the image of the company i work
+            for. I work with insurance; and that is one of the least enjoyable
+            tasks that a contrator wants to undertake. What i like to do it to
+            make the experience more enjoyable for everyone. My favourit
+            experiences are the way that my coworkers frequently complienntn me
+            after hearing me deal with objections and diffiulties of
+            contractors. "You are always so calm".
           </p>
           <p>
-            Nullam et orci eu lorem consequat tincidunt vivamus et sagittis
-            libero. Mauris aliquet magna magna sed nunc rhoncus pharetra.
-            Pellentesque condimentum sem. In efficitur ligula tate urna.
-            Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor.
-            Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis
-            libero. Mauris aliquet magna magna sed nunc rhoncus amet feugiat
-            tempus.
+            My friendly and calm nature have resulted in many contractor being
+            much more comfortable with such a rigorous and tedious process. It
+            has also resulted in a formal compliment for my services from a
+            contractor. This is a skill that i have developed with years of
+            sales experience; I use it very effectively.
           </p>
           {close}
         </article>
@@ -98,16 +89,17 @@ class Main extends React.Component {
             <img src={pic03} alt="" />
           </span>
           <p>
-            Motivated and results-oriented bilingual professional with
-            outstanding project management skills. Expert researcher with flair
-            for analysis, reporting and presentations. Keenly interested in
-            developing a career in business intelligence and providing a
-            vertical bridge to communicate information of high value to support
-            decision making. Possesses knowledge and experience spanning various
-            business fields such as Sales, Account Management, Customer
-            Retention, Information Management and Marketing. Recognized as a
-            collaborative team player with excellent interpersonal skills and
-            the ability to build solid working relationships.
+            I am a humble person with a big personality. I always consider the
+            needs of others first, and through cooperation I am able to find the
+            best outcome for all. Having fun does not begin and end with the
+            span of my spare-time. I like to make people smile wherever I go;
+            the effects of this are very noticible. I have a wide variety of
+            interests, from watching the leafs play, to going to musicals. I
+            know that Tavares is the right choice for captain this year and my
+            tickets for Hamilton are already purchased. I like to see myself as
+            a varied indivdual that can offer something for every personality. I
+            think that the best way to impart my wisdom, is to do it within the
+            flow of the conversation.
           </p>
           {close}
         </article>
