@@ -11,7 +11,7 @@ const Header = props => (
         <h1>AlexFrench</h1>
         <p>
           A Personal and Business website by{' '}
-          <a href="https://www.linkedin.com/in/alex-cowan-53112910b/">
+          <a href="https://www.linkedin.com/in/alexjcowan">
             AlexFrench
           </a>{' '}
           <br />
